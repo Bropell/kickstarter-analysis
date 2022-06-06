@@ -5,7 +5,7 @@ This project takes a deep dive into crowdfunding data to uncover trends in the t
 ### Purpose
 The purpose of this analysis is to use the power of Excel and pivot tables to provide a better understanding of what makes a successfully funded campaign for a play in the theater industry. 
 ## Analysis and Challenges
-
+https://github.com/Bropell/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx 
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
