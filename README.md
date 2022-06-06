@@ -12,7 +12,7 @@ Although there were many parameters to look at, this project specifically focuse
 This portion of the analysis was meant to find trends in theater kickstarters through the use of a pivot table. After filtering by parent category, which for this case was theater, row labels were filled with months of the year while the column labels were separated by the campaign status (successful, failed or canceled). 
 !(Pivot_table.png)
 The pivot table was then used to make a plot of theater outcomes based on the launch date. This plot shows the trends for successful, failed and canceled theater kickstarters over the course of a year which provides an excellent visualization of the data.
-!(https://github.com/Bropell/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![alt text](https://github.com/Bropell/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
