@@ -12,7 +12,8 @@ Although there were many parameters to look at, this project specifically focuse
 This portion of the analysis was meant to find trends in theater kickstarters through the use of a pivot table. After filtering by parent category, which for this case was theater, row labels were filled with months of the year while the column labels were separated by the campaign status (successful, failed or canceled). The pivot table was then used to make a plot of theater outcomes based on the launch date. This plot shows the trends for successful, failed and canceled theater kickstarters over the course of a year which provides an excellent visualization of the data.
 ![alt text](https://github.com/Bropell/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+This portion of the analysis was meant to find the outcomes based off a certain goal amount as a percentage. A new worksheet was created with different goal amounts in ranges. Using the COUNTIFS() function, several columns were populated with values for number successful, number failed and number canceled. These values were added together to find the total projects for a particular goal range and each outcome was determined as a percentage of the total projects. A plot was generated from the calculated percentages to provide a visual representation of the goal ranges with a higher percentage of successful campaigns and conversely, those with a higher percentage of failure.
+![alt text](https://github.com/Bropell/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)     
 ### Challenges and Difficulties Encountered
 
 ## Results
